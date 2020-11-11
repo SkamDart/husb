@@ -1,0 +1,10 @@
+[package]
+name = "usb-reset"
+version = "0.1.0"
+authors = ["Cameron Dart <cdart2@illinois.edu>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.3"
+hidapi = "1.2.3"
+nix = "0.19.0"
